@@ -1,1 +1,2 @@
 10/15/2024 - started learning GIT
+# learned to create a local repo and connect to remote repo
