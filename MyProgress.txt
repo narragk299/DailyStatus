@@ -1,2 +1,5 @@
 10/15/2024 - started learning GIT
 # learned to create a local repo and connect to remote repo
+
+10/16/2024 - practiced Java
+# program on simple username and  password creation and job browsing.
