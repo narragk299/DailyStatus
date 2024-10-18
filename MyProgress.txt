@@ -3,3 +3,7 @@
 
 10/16/2024 - practiced Java
 # program on simple username and  password creation and job browsing.
+
+10/17/2024 - continued practicing Java
+# contuned with yesterday's program and added a confirm password feature and started with login feature need to make a proper flow and 
+rework. Not much of progress Today.
