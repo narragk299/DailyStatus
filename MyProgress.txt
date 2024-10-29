@@ -7,3 +7,12 @@
 10/17/2024 - continued practicing Java
 # contuned with yesterday's program and added a confirm password feature and started with login feature need to make a proper flow and 
 rework. Not much of progress Today.
+
+10/18/2024 - 10/20/2024
+#Break
+
+10/21/2024 - 10/24/2024
+#Mild preparation just touch base on resume topics
+
+10/25/2024 - 10/31/2024
+#went to Akka's house very mild preparation.
